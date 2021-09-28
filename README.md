@@ -1,0 +1,33 @@
+# Formacao-Java-Web-Full-Stack (Certificados)
+https://www.jdevtreinamento.com.br/formacao-java-web-profissional/)
+
+- Lógica
+- Orientação a Objetos
+- Java básico e avançado
+- Angular 8
+- Spring Boot
+- Spring Frameworks
+- Spring MVC
+- Spring RESTful API
+- Spring Data
+- Spring Security
+- Thymeleaf
+- Java EE e CDI
+- Apache Tomcat
+- Ajax
+- Json
+- JavaScript
+- jQuery
+- Facelets
+- Hibernate
+- Hibernate Envers
+- JPA e Java Persistence API
+- Flyway Google
+- SQL JDBC, PostgreSQL, e Mysql
+- iReport e JasperSoft Studio
+- BootStrap
+- Servlets e JSP
+- JavaServer Faces e PrimeFaces
+- Web Services SOA, SOAP, REST e RESTful
+- ORM
+- Bean Validator
